@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android App Development.<br>🌱 I’m currently learning DSA, JAVA, and GUI.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
+🔭 I’m currently working on Android App Development.<br>🌱 I’m currently learning DSA, Android Mobile App Development, and GUI.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
 
 
 ## 🌐 Socials:
