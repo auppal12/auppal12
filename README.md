@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning DSA, Android Mobile App Development, and GUI designs.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
+🔭 I’m currently working on AWS, and GUI designs.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
 
 
 ## 🌐 Socials:
