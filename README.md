@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AWS, and GUI designs.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
+🔭 I’m currently learning/working on cloud service AWS, Design Patterns in the Enterprise, and advance GUI designs.<br>💬 Dog Person.<br>⚡ Love COD and Football (Its called Football - not Soccer).
 
 
 ## 🌐 Socials:
